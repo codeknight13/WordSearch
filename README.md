@@ -1,10 +1,10 @@
-#                                                 TapSearchAPI
+#                                                 WordSearchAPI
 
 ___
 
 ## Description : -
 
-### TapSearchAPI achieves the following objectives : -
+### WordSearchAPI achieves the following objectives : -
 
 It takes multiple paragraphs separated by two new lines, and update them in our DataBase.
 
