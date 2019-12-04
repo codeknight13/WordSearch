@@ -47,4 +47,4 @@ ___
 
 ## Deployment Link : -
 
-[Click To See Deployment](https://tapsearch-api.herokuapp.com)
+[Click To See Deployment](https://wordsearch-api.herokuapp.com/Home)
